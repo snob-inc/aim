@@ -8,7 +8,7 @@ gem "bootsnap", ">= 1.4.2", require: false
 gem "jbuilder", "~> 2.7"
 gem "meta-tags"
 gem "mysql2", ">= 0.4.4"
-gem "puma", "~> 4.1"
+gem "puma", "~> 4.3"
 gem "rails", "~> 6.0.2", ">= 6.0.2.2"
 gem "rails-i18n"
 gem "sass-rails", ">= 6"
